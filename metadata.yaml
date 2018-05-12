@@ -1,5 +1,8 @@
 _repo: In-the-Valley_9787
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frederic, Harold
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/83
     wikipedia: http://en.wikipedia.org/wiki/Harold_Frederic
 description: A story of the Mohawk Valley in Upstate New York, 1757-1780.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9787#In-the-Valley
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
